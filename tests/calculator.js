@@ -26,6 +26,7 @@ describe('Demo Calculator Test', function(){
 
 
     });
+<<<<<<< HEAD
     it('Subtraction Test', function(){
 
         //browser.get('https://juliemr.github.io/protractor-demo/');
@@ -49,4 +50,6 @@ describe('Demo Calculator Test', function(){
 
 
     });
+=======
+>>>>>>> 39d8b01abe24310dfc2622adeb5a77aeb76695f7
 });
