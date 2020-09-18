@@ -22,7 +22,7 @@ describe('Demo Calculator Test', function(){
         
         hp.verifyResult('25');
 
-        browser.sleep(2000);
+        browser.sleep(5000);
 
 
     });
