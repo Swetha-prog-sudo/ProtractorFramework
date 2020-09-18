@@ -40,13 +40,12 @@ describe('Demo Calculator Test', function(){
         //element(by.css('[ng-click="doAddition()"]')).click();
         hp.clickGo1();
         
-        
         //let result=element(by.cssContainingText('.ng-binding','15'));
         //expect(result.getText()).toEqual('15');
         
-        hp.verifyResults('25');
+        hp.verifyResult('25');
 
-        browser.sleep(2000);
+        browser.sleep(5000);
 
 
     });
